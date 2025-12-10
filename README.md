@@ -11,9 +11,13 @@ A beautiful, offline-first task manager built with React Native and Expo. Manage
 
 <div align="center">
 
-### Main Screens
+### Main Screens (Dark Mode)
 
 <img src="./assets/Demo/Task screen.jpeg" alt="Task List Screen" width="250"/> <img src="./assets/Demo/Analytics.jpeg" alt="Analytics Dashboard" width="250"/> <img src="./assets/Demo/Setting.jpeg" alt="Settings Screen" width="250"/>
+
+### Main Screens (Light Mode)
+
+<img src="./assets/Demo/Light Task Screen.jpeg" alt="Task List Screen - Light" width="250"/> <img src="./assets/Demo/Light analytics.jpeg" alt="Analytics Dashboard - Light" width="250"/> <img src="./assets/Demo/Light Settings.jpeg" alt="Settings Screen - Light" width="250"/>
 
 ### Features in Action
 
